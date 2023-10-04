@@ -1,0 +1,5 @@
+numpy==1.21.0
+opencv-python-headless==4.5.3
+torch==1.10.0
+ultralytics==0.10.2
+deep_sort==1.2.4
